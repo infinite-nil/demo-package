@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/infinite-nil/demo-package.git"
+    "url": "git+https://github.com/infinite-nil/demo-package.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
